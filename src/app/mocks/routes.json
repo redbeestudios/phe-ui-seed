@@ -1,0 +1,9 @@
+{
+    "/api/greetings/:id": "/greetings/:id",
+    "/api/list": "/list",
+    "/api/mockserver/charback?page=0": "/chargeBack1",
+    "/ms/liquidations/api/liquidation?establishmentNumber=6941009&page=0": "/dailyliquidations1",
+    "/ms/liquidations/api/liquidation?establishmentNumber=6941009&page=1": "/dailyliquidations2",
+    "/ms/liquidations?type=monthly&establishmentNumber=13150560&page=0": "/monthlyliquidations1",
+    "/ms/liquidations?type=monthly&establishmentNumber=13150560&page=1": "/monthlyliquidations2"
+}
