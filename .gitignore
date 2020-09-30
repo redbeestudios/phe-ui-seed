@@ -2,8 +2,7 @@ node_modules
 dist
 build
 .idea/*
-package-lock.json
-package.json
+
 *.iml
 *.log
 *.DS_Store
